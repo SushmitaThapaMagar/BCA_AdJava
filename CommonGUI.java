@@ -1,4 +1,5 @@
 import javax.swing.*;
+
 class CommonGUI extends JFrame{
     JMenuBar menuBar;
     JMenu scrollMenu, dialogMenu, simpleForm;
