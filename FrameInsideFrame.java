@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.awt.*;
 
 public class FrameInsideFrame {
     public static void main(String[] args) {

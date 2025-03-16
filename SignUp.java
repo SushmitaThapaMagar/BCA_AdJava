@@ -15,7 +15,7 @@ public class SignUp extends JFrame {
         JPanel signupPanel = new JPanel();
         signupPanel.setLayout(new GridBagLayout());
         signupPanel.setBorder(BorderFactory.createTitledBorder("SignUp"));
-
+        
         GridBagConstraints gbc = new GridBagConstraints();// GridBagConstraints(): allows you to control the layout of components by setting various properties such as position, size, alignment, and padding
         gbc.insets = new Insets(5, 5, 5, 5);
 

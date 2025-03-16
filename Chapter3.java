@@ -1,5 +1,5 @@
 //Student Registration form created by using AWT Controls
-import javax.swing.*;
+
 import java.awt.*;
 class Student extends Frame{
     Label lblhd=new Label("Student Details", Label.CENTER);
