@@ -1,0 +1,36 @@
+Serialization: data into form of bytes
+Deserialization : reverse of Serialization
+
+Java Beans : Components or functions that is more like encapsulation turning into one object.
+Java Beans need constructor with no arguments/ No-arg construtor should be created
+Properties of Java Beans:
+Getter/Setter
+
+1. getPropertyName() : it is also also called accessor
+2. setPropertyName() ; it is also called mutator(play a crucial role in maintaining data encapsulation and integrity by providing controlled access to modify an object's attributes)
+
+Two types of Properties :
+1. Simple : N (the name of the property) and T (type)
+2. Indexed : consistes of multiple values
+
+
+// Using the BeanInfo Interface
+BeanInfo - enables to explicitly contorl what information is available.
+Persistant: refers to the ability to store data or objects so that they remain available even after the program or application has terminated
+
+
+// Benifits of JavaBeans
+- Code reuseability
+- Customization
+- Clean Code
+
+
+Transient - used to indicate that a field in a class should not be serialized during the serialization process.
+BDK- Bean Development Kit 
+
+
+
+
+
+
+
