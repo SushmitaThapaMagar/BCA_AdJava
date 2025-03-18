@@ -11,7 +11,12 @@ Getter/Setter
 
 Two types of Properties :
 1. Simple : N (the name of the property) and T (type)
-2. Indexed : consistes of multiple values
+2. Indexed : consistes of multiple values (e.g. array)
+
+
+Bound property : can be customised by self
+
+Constraints property : can be customised by other
 
 
 // Using the BeanInfo Interface
@@ -27,6 +32,8 @@ Persistant: refers to the ability to store data or objects so that they remain a
 
 Transient - used to indicate that a field in a class should not be serialized during the serialization process.
 BDK- Bean Development Kit 
+
+
 
 
 
