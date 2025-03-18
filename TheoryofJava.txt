@@ -24,13 +24,13 @@ BeanInfo - enables to explicitly contorl what information is available.
 Persistant: refers to the ability to store data or objects so that they remain available even after the program or application has terminated
 
 
-// Benifits of JavaBeans
+// Benifits of JavaBeans1
 - Code reuseability
 - Customization
 - Clean Code
 
 
-Transient - used to indicate that a field in a class should not be serialized during the serialization process.
+Transient - uytgsed to indicate that a field in a class should not be serialized during the serialization process.
 BDK- Bean Development Kit 
 
 
