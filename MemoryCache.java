@@ -17,7 +17,7 @@ public class MemoryCache extends ResponseCache{
     public CacheRequest put(URI uri, URLConnection conn) throws IOException{
         if(responses.size()>=maxEntries)
         return null;
-
+        
         CacheControl control = new CacheControl(conn.getHeaderField("Cache-Control"));
         if(control.noStore()){
             return null;
@@ -45,5 +45,4 @@ public class MemoryCache extends ResponseCache{
             return null;
         }
     }
-    
 }
