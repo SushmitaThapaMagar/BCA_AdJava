@@ -1,4 +1,3 @@
-package Chapter1_GUI_Swing;
 
 public class Calculator {
     

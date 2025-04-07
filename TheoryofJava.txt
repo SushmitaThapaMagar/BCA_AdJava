@@ -33,6 +33,9 @@ Persistant: refers to the ability to store data or objects so that they remain a
 Transient - uytgsed to indicate that a field in a class should not be serialized during the serialization process.
 BDK- Bean Development Kit 
 
+Getter //sets or updates the value of a private attribute in a class
+Setter //Provides controlled access to private fields
+
 
 
 

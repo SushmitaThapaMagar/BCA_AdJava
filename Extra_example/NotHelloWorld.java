@@ -1,3 +1,4 @@
+package Extra_example;
 
 import javax.swing.*;
 import java.awt.*;

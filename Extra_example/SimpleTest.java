@@ -1,3 +1,4 @@
+package Extra_example;
 
 import java.awt.*;
 import javax.swing.JFrame;

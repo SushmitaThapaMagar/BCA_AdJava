@@ -1,3 +1,4 @@
+package Chapter3_;
 //Student Registration form created by using AWT Controls
 
 import java.awt.*;
