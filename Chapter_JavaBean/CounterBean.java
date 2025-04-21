@@ -1,4 +1,3 @@
-import java.beans.PropertyChangeSupport;
 import java.io.Serializable;
 
 public class CounterBean implements Serializable {
